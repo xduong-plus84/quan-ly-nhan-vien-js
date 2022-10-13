@@ -1,0 +1,30 @@
+header,
+section,
+footer,
+aside,
+nav,
+main,
+article,
+figure {
+  display: block;
+}
+
+img {
+  max-width: 100%;
+}
+/* .modal-content p span:first-of-type {
+  color: red;
+} */
+
+.d-none {
+  display: none;
+}
+
+.d-inline {
+  display: inline-block;
+  font-size: 13px;
+}
+
+span#btnTimNV {
+  cursor: pointer;
+}
